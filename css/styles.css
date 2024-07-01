@@ -27,6 +27,7 @@ button {
 }
 
 .logo-color {
+    font-family: "Raleway", sans-serif;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #2E2F42;
@@ -110,7 +111,7 @@ button {
     color: #434455;
 }
 
-/* OUR TEAM */
+/* OUR TEAM 3 */
 .team {
     background-color: #f4f4fd;
 }
@@ -124,8 +125,8 @@ button {
     color: #2E2F42;
 
 }
-.team-list {
-    background-color: #FFFFFF;
+.team-list-item {
+background-color: #FFFFFF;
 }
 .team-title-avatar {
     font-weight: 500;
@@ -143,5 +144,5 @@ button {
     color: #434455;
 }
 
-
+/* PORTFOLIO */
 
