@@ -1,6 +1,6 @@
 body {
     font-family: "Roboto", sans-serif;
-    background-color: #ffffff;
+    background-color: #FFFFFF;
     color: #434455;
     display: block;
     margin: 8px;
@@ -47,7 +47,7 @@ button {
 
 .menu-link:hover,
 .menu-link:focus {
-    color: #404bbf;
+    color: #404BBF;
 }
 
 .contacts-menu-link {
@@ -60,14 +60,88 @@ button {
 
 .contacts-menu-link:hover,
 .contacts-menu-link:focus {
-    color: #404bbf;
+    color: #404BBF;
 }
 
 /* MAIN */
 
 /* NAVY-BLUE */
 .hero {
-    background-color: #2e2f42;
+    background-color: #2E2F42;
 }
+
+.hero-title {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.hero-button {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    background: #4D5AE5;
+}
+
+.hero-button:hover,
+.hero-button:focus {
+    background-color: #404BBF;
+}
+
+/* DENEFIT */
+.benefit-title-profession {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+.benefit-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+/* OUR TEAM */
+.team {
+    background-color: #f4f4fd;
+}
+.team-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2E2F42;
+
+}
+.team-list {
+    background-color: #FFFFFF;
+}
+.team-title-avatar {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.team-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
 
 
