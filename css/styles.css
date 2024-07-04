@@ -2,8 +2,6 @@ body {
     font-family: "Roboto", sans-serif;
     background-color: #FFFFFF;
     color: #434455;
-    display: block;
-    margin: 8px;
 }
 ul {
     list-style-type: none;
